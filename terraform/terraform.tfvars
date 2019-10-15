@@ -1,0 +1,7 @@
+ami                 = "ami-0ce71448843cb18a1"
+instance_type       = "t2.micro"
+profile             = "dev"
+region              = "eu-west-1"
+key_name            = "mysql-instance-key"
+vpc_id              = "vpc-07d5a9727cf0103d7"
+subnet_id           = "subnet-0312527d0319b924b"
